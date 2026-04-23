@@ -1,8 +1,12 @@
 <div align="left">
-  <img src="./app-icon.png" alt="D1Explorer Icon" width="256" height="256">
+  <a href="https://apps.apple.com/app/id6761669031">
+    <img src="./app-icon.png" alt="D1Explorer Icon" width="256" height="256">
+  </a>
 </div>
 
 # D1Explorer Support
+
+[![Download on the Mac App Store](https://developer.apple.com/assets/elements/badges/download-on-the-mac-app-store.svg)](https://apps.apple.com/app/id6761669031)
 
 Welcome to D1Explorer support! This repository is dedicated to help you get the most out of D1Explorer and resolve any issues you might encounter.
 
@@ -155,7 +159,7 @@ When suggesting a feature:
 
 ### Installation
 
-1. Download D1Explorer from the [Mac App Store](https://d1-explorer.mgcrea.io/) or the project website
+1. Download D1Explorer from the [Mac App Store](https://apps.apple.com/app/id6761669031)
 2. Launch D1Explorer from Applications
 
 ### First Use
@@ -312,9 +316,10 @@ Database contents themselves are not copied or cached locally; they're read dire
 
 ## Contact
 
+- **Download:** [Mac App Store](https://apps.apple.com/app/id6761669031)
+- **Website:** [d1-explorer.mgcrea.io](https://d1-explorer.mgcrea.io/)
 - **Issues & Bug Reports:** [GitHub Issues](https://github.com/mgcrea/support/issues/new?labels=d1-explorer&title=%5Bd1-explorer%5D+)
 - **Feature Requests:** [GitHub Issues](https://github.com/mgcrea/support/issues/new?labels=d1-explorer&title=%5Bd1-explorer%5D+)
-- **Website:** [d1-explorer.mgcrea.io](https://d1-explorer.mgcrea.io/)
 - **Email:** [support@mgcrea.io](mailto:support@mgcrea.io)
 - **In-App Help:** Press **⌘/** in D1Explorer
 
