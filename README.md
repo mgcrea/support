@@ -46,6 +46,16 @@ macOS app that helps developers track releases for their favorite development to
 
 <br clear="left">
 
+### [Silhouette](./silhouette/)
+
+<a href="./silhouette/"><img src="./silhouette/app-icon.png" alt="Silhouette Icon" width="96" height="96" align="left"></a>
+
+Native macOS app for removing backgrounds from photos — cleanly, privately, and in bulk. Four on-device models (Apple Vision, IS-Net DIS, MODNet, BiRefNet) powered by Apple Vision, Core ML, and MLX Swift. Batch-first workflow built for e-commerce, designers, and photographers.
+
+[Website](https://silhouette.mgcrea.io/) · [Support](./silhouette/README.md) · [Report Issue](https://github.com/mgcrea/support/issues/new?labels=silhouette&title=%5Bsilhouette%5D+)
+
+<br clear="left">
+
 ## Reporting Issues
 
 Found a bug or have a feature request? Please open an issue in the relevant app's tracker — see the links above. Including your app version, macOS version, and reproduction steps helps a lot.
