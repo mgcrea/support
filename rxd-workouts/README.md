@@ -55,11 +55,11 @@ The App Privacy form on the App Store reads "Data Not Collected" because that is
 
 Three categories, each tuned to how that style of training is actually tracked:
 
-| Category       | What you log                                          | Notes                                                              |
-| -------------- | ----------------------------------------------------- | ------------------------------------------------------------------ |
-| **Strength**   | Movement, sets, reps, weight                          | Focus lifts and complex sessions across barbell / dumbbell / kettlebell |
-| **Cardio**     | Movement, distance, time, calories, custom target     | Pick the metric that matters for the workout                        |
-| **Benchmark**  | Named workout, time or score, optional notes          | The Girls and the Heroes come pre-configured                        |
+| Category      | What you log                                      | Notes                                                                   |
+| ------------- | ------------------------------------------------- | ----------------------------------------------------------------------- |
+| **Strength**  | Movement, sets, reps, weight                      | Focus lifts and complex sessions across barbell / dumbbell / kettlebell |
+| **Cardio**    | Movement, distance, time, calories, custom target | Pick the metric that matters for the workout                            |
+| **Benchmark** | Named workout, time or score, optional notes      | The Girls and the Heroes come pre-configured                            |
 
 ### Which benchmark workouts come pre-configured?
 
@@ -72,7 +72,14 @@ Drop in your time or score and you're done. No setting up movement lists, no gue
 
 ### How does the 1RM Calculator work?
 
-Pick any set you've logged (or punch in a hypothetical), choose the formula you trust — **Epley** or **Brzycki** — and RXd predicts your one-rep max. You can also turn the prediction directly into a workout template, so the next session is one tap away.
+Pick any set you've logged (or punch in a hypothetical), choose one of four formulas — **Epley**, **Brzycki**, **Wathan**, or **Adaptive** — and RXd predicts your one-rep max. You can also turn the prediction directly into a workout template, so the next session is one tap away.
+
+| Formula      | Best for                                                                                         |
+| ------------ | ------------------------------------------------------------------------------------------------ |
+| **Epley**    | Linear, the de-facto standard. Stable across 1–15 reps; slightly aggressive past 10.             |
+| **Brzycki**  | Most accurate at low reps (≤5). Past 10 reps the formula breaks down and those sets are skipped. |
+| **Wathan**   | Exponential model, validated up to ~20 reps. Best when working sets go above 10.                 |
+| **Adaptive** | Epley for ≤10 reps, Wathan above. Recommended if your sets span low and high rep ranges.         |
 
 ### What does Targets & PRs track?
 
@@ -233,7 +240,7 @@ RXd is free to download. A one-time **RXd Pro** in-app purchase removes the hist
 - ✅ Unlimited workouts logged across Strength, Cardio, and Benchmark
 - ✅ Native pickers for sets, reps, weight, time, distance, and calories
 - ✅ All pre-configured benchmark workouts (The Girls, The Heroes)
-- ✅ 1RM Calculator (Epley and Brzycki formulas)
+- ✅ 1RM Calculator with four formulas (Epley, Brzycki, Wathan, Adaptive)
 - ✅ Personal records (1RM, 3RM, 5RM) with bodyweight strength standards
 - ✅ Workout history — last 30 days, grouped by month, filterable by category
 - ✅ Imperial / metric units, light / dark mode, Dynamic Type
@@ -267,7 +274,7 @@ Pro users can set custom targets per movement (a goal 1RM Back Squat, a sub-3:00
 
 ### Pick the Right 1RM Formula
 
-**Epley** tends to over-predict on low-rep sets (1–3) and is conservative on higher-rep sets (8–10). **Brzycki** is the opposite — slightly conservative on low reps, slightly aggressive on higher reps. For a 5RM-to-1RM prediction, the two are within ~3% of each other. Pick the one that matches what your coach uses and stay consistent.
+If you do most of your work in the 1–10 rep range, **Epley** is the safe default — it's the de-facto standard and stable across that range. **Brzycki** is most accurate at low reps (≤5) and ignores sets past 10 reps because the formula breaks down. **Wathan** is exponential and stays valid up to ~20 reps, so it's the right pick when your working sets routinely go above 10. **Adaptive** uses Epley for ≤10 reps and Wathan above — recommended if your sets span low and high rep ranges. Whichever you pick, stay consistent so your progression curve is comparable cycle to cycle.
 
 ### Export Before You Switch Phones (or Don't)
 
