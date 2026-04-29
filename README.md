@@ -1,6 +1,6 @@
 # mgcrea Support
 
-Support repository for [mgcrea](https://mgcrea.io) macOS apps. Each app has its own folder with documentation, FAQs, and an issue tracker.
+Support repository for [mgcrea](https://mgcrea.io) macOS and iOS apps. Each app has its own folder with documentation, FAQs, and an issue tracker.
 
 ## Apps
 
@@ -43,6 +43,16 @@ macOS app that helps developers reclaim disk space by cleaning build artifacts a
 macOS app that helps developers track releases for their favorite development tools and software packages. Supports Helm Charts, GitHub Releases, and GitLab Releases, with all data automatically synced across your devices via iCloud.
 
 [Support](./dev-pulse/README.md) · [Report Issue](https://github.com/mgcrea/support/issues/new?labels=dev-pulse&title=%5Bdev-pulse%5D+)
+
+<br clear="left">
+
+### [RXd](./rxd-workouts/)
+
+<a href="./rxd-workouts/"><img src="./rxd-workouts/app-icon.png" alt="RXd Icon" width="96" height="96" align="left"></a>
+
+Native iOS workout tracker for CrossFit and functional strength athletes. Strength sessions, conditioning, and named benchmarks (Fran, Murph, DT) — logged on-device with native pickers, full light/dark mode, and zero analytics. Free to download with a one-time RXd Pro unlock for unlimited history, custom targets, and CSV export.
+
+[App Store](https://apps.apple.com/app/id6745904823) · [Website](https://rxd.app/) · [Support](./rxd-workouts/README.md) · [Report Issue](https://github.com/mgcrea/support/issues/new?labels=rxd-workouts&title=%5Brxd-workouts%5D+)
 
 <br clear="left">
 
