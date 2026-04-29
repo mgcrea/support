@@ -1,8 +1,12 @@
 <div align="left">
-  <img src="./app-icon.png" alt="BloatBuster Icon" width="256" height="256">
+  <a href="https://apps.apple.com/app/id6751111260">
+    <img src="./app-icon.png" alt="BloatBuster Icon" width="256" height="256">
+  </a>
 </div>
 
 # BloatBuster Support
+
+[![Download on the Mac App Store](./../assets/download-on-the-mac-app-store.svg)](https://apps.apple.com/app/id6751111260)
 
 Welcome to BloatBuster support! This repository is dedicated to help you get the most out of BloatBuster and resolve any issues you might encounter.
 

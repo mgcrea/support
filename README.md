@@ -30,7 +30,7 @@ Native macOS app for browsing and managing object storage on [Cloudflare R2](htt
 
 macOS app that helps developers reclaim disk space by cleaning build artifacts and dependencies from development projects. Supports 15+ project types including Node.js, Rust, Python, Swift, Xcode, Unity, and more.
 
-[Support](./bloat-buster/README.md) · [Report Issue](https://github.com/mgcrea/support/issues/new?labels=bloat-buster&title=%5Bbloat-buster%5D+)
+[App Store](https://apps.apple.com/app/id6751111260) · [Support](./bloat-buster/README.md) · [Report Issue](https://github.com/mgcrea/support/issues/new?labels=bloat-buster&title=%5Bbloat-buster%5D+)
 
 <br clear="left">
 
@@ -40,7 +40,7 @@ macOS app that helps developers reclaim disk space by cleaning build artifacts a
 
 macOS app that helps developers track releases for their favorite development tools and software packages. Supports Helm Charts, GitHub Releases, and GitLab Releases, with all data automatically synced across your devices via iCloud.
 
-[Support](./dev-pulse/README.md) · [Report Issue](https://github.com/mgcrea/support/issues/new?labels=dev-pulse&title=%5Bdev-pulse%5D+)
+[App Store](https://apps.apple.com/app/id6753819990) · [Website](https://dev-pulse.mgcrea.io/) · [Support](./dev-pulse/README.md) · [Report Issue](https://github.com/mgcrea/support/issues/new?labels=dev-pulse&title=%5Bdev-pulse%5D+)
 
 <br clear="left">
 

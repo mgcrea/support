@@ -1,8 +1,12 @@
 <div align="left">
-  <img src="./app-icon.png" alt="DevPulse Icon" width="256" height="256">
+  <a href="https://apps.apple.com/app/id6753819990">
+    <img src="./app-icon.png" alt="DevPulse Icon" width="256" height="256">
+  </a>
 </div>
 
 # DevPulse Support
+
+[![Download on the Mac App Store](./../assets/download-on-the-mac-app-store.svg)](https://apps.apple.com/app/id6753819990)
 
 Welcome to DevPulse support! This repository is dedicated to help you get the most out of DevPulse and resolve any issues you might encounter.
 
