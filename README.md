@@ -10,8 +10,7 @@ Support repository for [mgcrea](https://mgcrea.io) macOS and iOS apps. Each app 
 
 Native macOS app for browsing and editing [Cloudflare D1](https://developers.cloudflare.com/d1/) databases and local SQLite files. Tabbed UI, inline editing, schema inspection, custom SQL, and Wrangler project import.
 
-[![Download on the Mac App Store](./assets/download-on-the-mac-app-store.svg)](https://apps.apple.com/app/id6761669031)
-&nbsp;[Website](https://d1-explorer.mgcrea.io/) · [Support](./d1-explorer/README.md) · [Report Issue](https://github.com/mgcrea/support/issues/new?labels=d1-explorer&title=%5Bd1-explorer%5D+)
+[App Store](https://apps.apple.com/app/id6761669031) · [Website](https://d1-explorer.mgcrea.io/) · [Support](./d1-explorer/README.md) · [Report Issue](https://github.com/mgcrea/support/issues/new?labels=d1-explorer&title=%5Bd1-explorer%5D+)
 
 <br clear="left">
 
@@ -21,8 +20,7 @@ Native macOS app for browsing and editing [Cloudflare D1](https://developers.clo
 
 Native macOS app for browsing and managing object storage on [Cloudflare R2](https://developers.cloudflare.com/r2/) and any S3-compatible provider (AWS S3, Backblaze B2, MinIO, Tigris, Wasabi, …). Drag-and-drop uploads, inline previews, bulk operations, and cross-provider sync.
 
-[![Download on the Mac App Store](./assets/download-on-the-mac-app-store.svg)](https://apps.apple.com/app/id6761668362)
-&nbsp;[Website](https://r2-explorer.mgcrea.io/) · [Support](./r2-explorer/README.md) · [Report Issue](https://github.com/mgcrea/support/issues/new?labels=r2-explorer&title=%5Br2-explorer%5D+)
+[App Store](https://apps.apple.com/app/id6761668362) · [Website](https://r2-explorer.mgcrea.io/) · [Support](./r2-explorer/README.md) · [Report Issue](https://github.com/mgcrea/support/issues/new?labels=r2-explorer&title=%5Br2-explorer%5D+)
 
 <br clear="left">
 
