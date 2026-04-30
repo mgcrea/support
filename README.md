@@ -30,7 +30,7 @@ Native macOS app for browsing and managing object storage on [Cloudflare R2](htt
 
 macOS app that helps developers reclaim disk space by cleaning build artifacts and dependencies from development projects. Supports 15+ project types including Node.js, Rust, Python, Swift, Xcode, Unity, and more.
 
-[App Store](https://apps.apple.com/app/id6751111260) · [Support](./bloat-buster/README.md) · [Report Issue](https://github.com/mgcrea/support/issues/new?labels=bloat-buster&title=%5Bbloat-buster%5D+)
+[App Store](https://apps.apple.com/app/id6751111260) · [Website](https://bloat-buster.mgcrea.io/) · [Support](./bloat-buster/README.md) · [Report Issue](https://github.com/mgcrea/support/issues/new?labels=bloat-buster&title=%5Bbloat-buster%5D+)
 
 <br clear="left">
 
@@ -44,7 +44,7 @@ macOS app that helps developers track releases for their favorite development to
 
 <br clear="left">
 
-### [RXd](./rxd-workouts/)
+### [RXd Workouts](./rxd-workouts/)
 
 <a href="./rxd-workouts/"><img src="./rxd-workouts/app-icon.png" alt="RXd Icon" width="96" height="96" align="left"></a>
 
@@ -61,6 +61,16 @@ Native iOS workout tracker for CrossFit and functional strength athletes. Streng
 Native macOS app for removing backgrounds from photos — cleanly, privately, and in bulk. Four on-device models (Apple Vision, IS-Net DIS, MODNet, BiRefNet) powered by Apple Vision, Core ML, and MLX Swift. Batch-first workflow built for e-commerce, designers, and photographers.
 
 [Website](https://silhouette.mgcrea.io/) · [Support](./silhouette/README.md) · [Report Issue](https://github.com/mgcrea/support/issues/new?labels=silhouette&title=%5Bsilhouette%5D+)
+
+<br clear="left">
+
+### [Contour](./contour/)
+
+<a href="./contour/"><img src="./contour/app-icon.png" alt="Contour Icon" width="96" height="96" align="left"></a>
+
+Native macOS segmentation workstation powered by Meta's Segment Anything (SAM 3 and SAM 3.1) running on-device via MLX on Apple Silicon. Prompt-driven instance masks with text, include and exclude boxes; instant threshold tuning; batch processing; COCO JSON and YOLO TXT exports. Built for ML researchers, CV engineers, annotation teams, and post-production artists.
+
+[App Store](https://apps.apple.com/app/contour-segment-anything/id6763902134) · [Website](https://contour.mgcrea.io/) · [Support](./contour/README.md) · [Report Issue](https://github.com/mgcrea/support/issues/new?labels=contour&title=%5Bcontour%5D+)
 
 <br clear="left">
 
